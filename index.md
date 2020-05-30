@@ -4,7 +4,7 @@
 
 Hello My Name Is Kieran. Welcome To My Site
 
-# Here are some of my Games
+# Here are some remixed games
 
 - https://scratch.mit.edu/projects/378331310/
 - https://scratch.mit.edu/projects/378321834/
