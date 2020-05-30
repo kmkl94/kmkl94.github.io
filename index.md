@@ -14,4 +14,4 @@ Hello My Name Is Kieran. Welcome To My Site
 - https://scratch.mit.edu/projects/323967367/
 - https://scratch.mit.edu/projects/378321544/
 
-(**These are just Remixes of popular games**)
+(** Note:These are just Remixes of popular games**)
